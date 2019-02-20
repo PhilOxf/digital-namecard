@@ -1,14 +1,15 @@
 BEGIN:VCARD
 VERSION:3.0
-PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+FN:Phil Silva
 N:Silva;Phil;;;
-FN: Felipe Silva 
-ORG:FS Tutoring;
-TITLE:Private Tutor, Professor Particular
-EMAIL;type=INTERNET;type=WORK;type=pref:fe.dls@outlook.com
-TEL;type=WORK;type=VOICE:+55 11 9 5401 2314
-item1.ADR;type=WORK;type=pref:;;Avenida Pompéia\São Paulo\ SP;;;05023-001;Brazil
-item1.X-ABADR:sg
-item2.URL;type=pref:fedls4.wixsite.com/fstut/
-item2.X-ABLabel:_$!<HomePage>!$_
+EMAIL;TYPE=INTERNET;TYPE=WORK:fe.dls@outlook.com
+TEL;TYPE=WORK:11 9 5401 2314
+item1.ADR:;;Av. Pompéia;São Paulo;SP;05023-001;BR
+item1.X-ABLabel:
+item2.ORG:FS Tutoring
+item2.X-ABLabel:
+item3.TITLE:Private Tutor / Professor Particular
+item3.X-ABLabel:
+item4.URL:fedls4.wixsite.com/fstut/
+item4.X-ABLabel:homePage
 END:VCARD
